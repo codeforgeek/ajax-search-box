@@ -1,0 +1,9 @@
+{
+  "name": "Ajax-Search-Box",
+  "version": "1.0.1",
+  "dependencies": {
+    "express": "~4.6.1",
+    "ejs": "~1.0.0",
+    "mysql": "~2.4.1"
+  }
+}
